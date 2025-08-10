@@ -1,0 +1,21 @@
+[project]
+name = "therahaven-ai-mental-health-companion"
+version = "0.1.0"
+description = "TheraHaven is an AI-powered mental health companion that provides a safe and supportive space for users to express their thoughts and feelings."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.116.1",
+    "geocoder>=1.38.1",
+    "langchain>=0.3.27",
+    "langchain-groq>=0.1.3",
+    "langchain-openai>=0.1.8",
+    "langgraph>=0.0.66",
+    "ollama>=0.5.3",
+    "pydantic>=2.11.7",
+    "requests>=2.32.4",
+    "streamlit>=1.48.0",
+    "twilio>=9.7.0",
+    "uvicorn>=0.35.0",
+    "python-dotenv>=1.0.1",
+]
