@@ -1,4 +1,4 @@
-# TheraHaven – AI Mental Health Companion
+# TheraHaven – A Health Assistent
 
 TheraHaven is a sophisticated AI-powered platform providing **confidential, empathetic, and immediate support** for anyone navigating mental health challenges. Designed by combining advanced language models, robust backend orchestration, and secure emergency features, TheraHaven ensures users have access to a caring companion that listens, helps, and acts when lives are at risk.
 
@@ -73,3 +73,10 @@ Every file in TheraHaven's architecture is a modular building block enabling fun
 ***
 
 TheraHaven is dedicated to supporting *real people* in *real situations* through AI-powered empathy and immediate action. For emergencies, always seek professional help. TheraHaven is here to guide, support, and connect—when you need it most.
+
+
+to run frontend use
+ uv run python -m streamlit run frontend.py
+>>
+
+  You can now view your Streamlit app in your browser.
